@@ -1,1 +1,1 @@
-web: gunicorn app:sensor_app
+web: gunicorn sensor_app:sensor_app
